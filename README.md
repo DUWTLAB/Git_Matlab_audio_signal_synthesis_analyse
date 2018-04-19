@@ -14,6 +14,6 @@ Generate single frequency chirp signal
 
 Generate LFMCW  (Linear Frequency Modulation Continuous Wave) chirp signal
 
-# #FILE: gen_hamonic_chirp.m
+## FILE: gen_hamonic_chirp.m
 
 Generate harnonic LFMCW chirp signal
