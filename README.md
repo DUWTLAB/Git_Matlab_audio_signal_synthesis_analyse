@@ -17,3 +17,7 @@ Generate LFMCW  (Linear Frequency Modulation Continuous Wave) chirp signal
 ## FILE: gen_hamonic_chirp.m
 
 Generate harnonic LFMCW chirp signal
+
+# Signal Analyse Tutorial
+Please scan the WeChat QR code to read the sinal analyse tutorial( in Chinese).
+![WeCha QR CODE](./wx_qr.png)
